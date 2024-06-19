@@ -1,0 +1,10 @@
+{
+  "request" : "Action",
+  "win": false,
+  "hotel":"[Worldwide, Worldwide, Worldwide]",
+  "place":{
+    "row":"G",
+    "column":"_9",
+    "hotel":"Sackson"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "request" : "turn",
+  "win":true,
+  "hotel":"[Festival, Festival, Festival]",
+  "place":{
+    "row":"E",
+    "column":"_4",
+    "hotel":"Continental"
+  }
+}

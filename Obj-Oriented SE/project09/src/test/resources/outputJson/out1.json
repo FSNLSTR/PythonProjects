@@ -1,0 +1,10 @@
+{
+  "request" : "Action",
+  "win":true,
+  "hotel":"[Festival, Festival, Festival]",
+  "place":{
+    "row":"G",
+    "column":"_9",
+    "hotel":"Sackson"
+  }
+}
